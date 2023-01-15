@@ -5,6 +5,7 @@
   background: #fff;
   display: flex;
   justify-content: space-between;
+  position: overflow;
 }
 .logo {
   height: 50px;

@@ -1,0 +1,27 @@
+.cart{
+    /* display: flex; */
+    align-items: center;
+}
+.each_product{
+    height: 50px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    background: #fff;
+}
+.product_img{
+    height: 50px;
+    width: 50px;
+}
+.qty{
+    height: 20px;
+    width: 80px;
+    color: rgb(1, 130, 130)
+}
+button{
+    color: rgb(1, 130, 130);
+    border:1px solid rgb(1, 130, 130);
+    border-radius: 5px;
+    cursor: pointer;
+}
