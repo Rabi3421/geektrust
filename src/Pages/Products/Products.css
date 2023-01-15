@@ -1,0 +1,30 @@
+.product_page{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+.search{
+    border-radius: 15px;
+    height:40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    /* border-bottom: 1px solid black; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sidebar{
+    width: 15%;
+    height: max-content;
+    background: #fff;
+    text-align: left;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.products {
+    width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}

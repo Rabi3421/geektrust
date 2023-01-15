@@ -1,0 +1,23 @@
+.card{
+    height: 370px;
+    width: 300px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.product_image{
+    height: 200px;
+    width: 280px;
+}
+.bottom_section{
+    display: flex;
+    justify-content:flex-end;
+    padding: 20px;
+    gap: 50px;
+}
+.add_to_cart{
+    color: rgb(1, 130, 130);
+    border:1px solid rgb(1, 130, 130);
+    border-radius: 5px;
+    cursor: pointer;
+}
